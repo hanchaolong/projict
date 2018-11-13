@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+printf("remove");
 printf("hello");
 return 0;
 }
